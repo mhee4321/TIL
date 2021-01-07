@@ -3,4 +3,4 @@
 - 오늘 배운 내용을 지속적으로 학습, 정리하는 repo입니다.
 - `2021-01-07 ~ing`
 
-![mongu](/Users/mhee4/Desktop/김문희님 사진 보내드립니다. - 스펙플러스 스튜디오/mongu.jpg)
+![mongu](/Users/mhee4/Desktop/picture/mongu.jpg)
