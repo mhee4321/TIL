@@ -5,3 +5,4 @@
 
 ![til_image](README.assets/til_image.png)
 
+강의장에서 작성한 텍스트입니다.
